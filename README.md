@@ -1,6 +1,6 @@
 # Manage-Access-and-Security-on-AVD
 
-Welcome to Azure Virtual Desktop: Manage Access and Security. These exercise files are meant to accompany my course on Pluralsight. The course was originally developed in May of 2022, using PowerShell version 7.2.2, Azure PowerShell module version 7.5.0, Azure CLI version 2.30.0, and Terraform 1.2.3. All of the exercise files should continue to be valid on the current major version of each platform.
+Welcome to Azure Virtual Desktop: Implement Identity and Security. These exercise files are meant to accompany my course on Pluralsight. The course was originally developed in December of 2022, using PowerShell version 7.2.2, Azure PowerShell module version 7.5.0, Azure CLI version 2.30.0, and Terraform 1.2.3. All of the exercise files should continue to be valid on the current major version of each platform.
 
 ## Using the files
 
